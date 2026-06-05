@@ -96,7 +96,7 @@ export default function ChatInterface() {
           +
         </div>
         <div>
-          <h1 className="font-bold text-gray-900 text-lg leading-none">AI 병원 상담봇</h1>
+          <h1 className="font-bold text-gray-900 text-lg leading-none">삼선간호부 AI 상담봇</h1>
           <p className="text-xs text-green-500 font-medium mt-0.5">● 온라인</p>
         </div>
         <div className="ml-auto">
